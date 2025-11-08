@@ -1,11 +1,19 @@
 title: "COM 411"
 description: "COM Shizzle for You Peeps!"
+url: "https://k1ngst0n911.github.io"
+baseurl: ""   # keep empty for <user>.github.io sites
+
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-url: "https://k1ngst0n911.github.io"
+
+# Clean URLs for pages in general
 permalink: /:categories/:title/
+
+# --- Custom collection for your COM series ---
 collections:
   com:
     output: true
     permalink: /com/:name/
+
+author: "Kingston Damour"
