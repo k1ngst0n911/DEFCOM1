@@ -1,2 +1,2 @@
-# DEFCOM1
-Component Object Model (COM) Information - COM 411
+# COM411
+Component Object Model (COM) Information
