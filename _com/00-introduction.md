@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "COM 00 — Introduction"
 description: "Why COM still matters: ABI stability, language neutrality, and binary compatibility."
 order: 0
