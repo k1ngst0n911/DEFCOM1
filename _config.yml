@@ -14,6 +14,6 @@ permalink: /:categories/:title/
 collections:
   com:
     output: true
-    permalink: /com/:name/
+    permalink: /:name/
 
 author: "Kingston Damour"
