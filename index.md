@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "COM 411 — Home"
+title: "COM411 - Home"
 permalink: /
 ---
 
-# COM Anatomy — Series Index
+# COM411 - Series Index
 {% include com-list.html %}
